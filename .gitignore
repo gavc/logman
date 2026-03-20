@@ -1,0 +1,29 @@
+# IDE and user-specific files
+.vs/
+.vscode/
+.idea/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build outputs and generated files
+[Bb]in/
+[Oo]bj/
+Output/
+TestResults/
+artifacts/
+
+# Local .NET CLI workspace state
+.dotnet/
+
+# NuGet packages
+packages/
+*.nupkg
+*.snupkg
+
+# Temporary files
+*.log
+*.tmp
+*.cache
